@@ -23,6 +23,9 @@ the road is yellow or white
 
 * Use ``generate_two_lines`` to find 2 lines, one in the left and the other in the right
 
+The flow chart image processing
+![Graph](https://github.com/ms5898/CarND-LaneLines-P1/blob/master/examples/flow_chart.png)
+
 
 ### 2. Identify potential shortcomings with your current pipeline
 
